@@ -6,6 +6,7 @@ typedef enum {
 	monday, tuesday, wednesday, thursday, friday, saturday, sunday
 } days;
 
+// Clark was here! :P
 int main()
 {
 	cout << days(3) << endl;

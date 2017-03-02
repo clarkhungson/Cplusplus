@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-#include <math.h>
-#define N (int) pow(4, n)
+
 
 void dequy(int *aarray, int k, int sum, int nSo)
 {

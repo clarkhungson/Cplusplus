@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Archers	1-archers.cpp	/^	Archers(const char * name, int blood, int streng)$/;"	f	class:Archers
+Archers	1-archers.cpp	/^class Archers$/;"	c	file:
+Archers_A	1-archers.cpp	/^	Archers_A() : Archers("A", 40, 4) {}$/;"	f	class:Archers_A
+Archers_A	1-archers.cpp	/^class Archers_A: public Archers$/;"	c	file:
+Archers_T	1-archers.cpp	/^	Archers_T() : Archers("T", 35, 3) {}$/;"	f	class:Archers_T
+Archers_T	1-archers.cpp	/^class Archers_T: public Archers$/;"	c	file:
+attack	1-archers.cpp	/^	void attack(Archers &T)$/;"	f	class:Archers
+blood	1-archers.cpp	/^	int blood;$/;"	m	class:Archers	file:
+getBlood	1-archers.cpp	/^	int getBlood()$/;"	f	class:Archers
+main	1-archers.cpp	/^int main()$/;"	f
+name	1-archers.cpp	/^	char *name;$/;"	m	class:Archers	file:
+setBlood	1-archers.cpp	/^	void setBlood(int blood)$/;"	f	class:Archers
+show	1-archers.cpp	/^	void show()$/;"	f	class:Archers
+streng	1-archers.cpp	/^	int streng;$/;"	m	class:Archers	file:
